@@ -1,9 +1,9 @@
 
-### Olá! Eu sou o Pedro Bolkenhagen 👋🏻
+### Hello! I am Pedro Bolkenhagen 👋🏻
 
 ![BolkenhagenPedro GitHub stats](https://github-readme-stats.vercel.app/api?username=BolkenhagenPedro&show_icons=true&theme=onedark)
 
-### Tecnologia que eu uso no meu dia
+### Technology I use in my day
 
 <div style="display> inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -12,4 +12,4 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
-"A programação é a capacidade de dar vida a ideias, transformando zeros e uns em inovação."
+"Programming is the ability to bring ideas to life, transforming zeros and ones into innovation."
