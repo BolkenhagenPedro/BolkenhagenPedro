@@ -1,7 +1,7 @@
 
 ### Hello! I am Pedro Bolkenhagen 👋🏻
 
-<center>![BolkenhagenPedro GitHub stats](https://github-readme-stats.vercel.app/api?username=BolkenhagenPedro&show_icons=true&theme=onedark)</center>
+<center> ![BolkenhagenPedro GitHub stats](https://github-readme-stats.vercel.app/api?username=BolkenhagenPedro&show_icons=true&theme=onedark) </center>
 
 ### Technology I use in my day
 
