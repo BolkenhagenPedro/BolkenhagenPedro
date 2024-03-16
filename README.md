@@ -1,7 +1,7 @@
 
 ### Hello! I am Pedro Bolkenhagen 👋🏻
 
-
+![BolkenhagenPedro GitHub stats](https://github-readme-stats.vercel.app/api?username=BolkenhagenPedro&show_icons=true&theme=dracula)
 
 ### Technology I use in my day
 
